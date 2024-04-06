@@ -1,3 +1,4 @@
+ID,Tank Failure Pressure (bar),Liquid Ratio (%),Tank Width (m),Tank Length,Tank Height (m),BLEVE Height (m),Vapour Height (m),Vapour Temperature (K),Liquid Temperature (K),Obstacle Distance to BLEVE (m),Obstacle Width (m),Obstacle Height (m),Obstacle Thickness (m),Obstacle Angle,Status,Liquid Critical Pressure (bar),Liquid Boiling Temperature (K),Liquid Critical Temperature (K),Sensor ID,Sensor Position Side,Sensor Position x,Sensor Position y,Sensor Position z,Target Pressure (bar)
 4198.0,37.2,0.54,1.79,6.61,0.39,-0.01,0.19,327.7,355.72,16.0,6.0,12.0,2.4,5.0,Subcooled,42.5,-42.0,96.7,14.0,2.0,16.85,1.4,5.9,0.3620775
 4199.0,37.05,0.54,1.8,6.58,0.41,0.01,0.21,327.75,355.33,16.0,6.0,12.0,2.4,5.0,Subcooled,42.5,-42.0,96.7,15.0,2.0,16.85,1.4,11.7,0.34467354
 4200.0,37.06,0.53,1.79,6.58,0.41,-0.01,0.21,326.51,354.8,16.0,6.0,12.0,2.39,5.0,Subcooled,42.5,-42.0,96.7,16.0,2.0,16.85,4.2,0.1,0.27216953
